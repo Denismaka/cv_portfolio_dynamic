@@ -15,7 +15,7 @@
     <div class="cv-card text-center">
         <img src="https://ui-avatars.com/api/?name=Denis+Maka&background=198754&color=fff&size=180" alt="Avatar Denis Maka" class="avatar" />
         <h1 class="mb-2 text-success">Denis Maka</h1>
-        <p class="lead mb-4">Développeur Web & Mobile</p>
+        <p class="lead mb-4">Développeur Web & Web Designer</p>
         <p>Téléchargez mon CV au format PDF :</p>
         <a href="function/download.php" class="btn btn-dark btn-lg mt-3" role="button" aria-label="Télécharger le CV de Denis Maka">
             📄 Télécharger le CV
