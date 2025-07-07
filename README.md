@@ -8,7 +8,7 @@ Ce projet propose une solution simple et professionnelle pour permettre aux visi
 ## 🚀 Fonctionnalités
 
 - 📥 Bouton de téléchargement du CV en PDF
-- 🔒 Téléchargement sécurisé via PHP
+- ⚡️ 100% compatible GitHub Pages (aucun PHP requis)
 - 💻 Facile à intégrer dans n'importe quel site (portfolio, blog, etc.)
 - 🎨 Personnalisation du style du bouton
 
@@ -19,14 +19,12 @@ Ce projet propose une solution simple et professionnelle pour permettre aux visi
 cv_portfolio_dynamic/
 │
 ├── assets/
-│ ├── css/
-│ │ └── style.css
-│ └── cv/
-│ └── Cv Dénis Maka.pdf
-├── function/
-│ └── download.php
-└── index.php
-└── README.php
+│   ├── css/
+│   │   └── style.css
+│   └── cv/
+│       └── Cv Dénis Maka.pdf
+├── index.html
+└── README.md
 
 ---
 
@@ -37,15 +35,6 @@ cv_portfolio_dynamic/
    git clone https://github.com/ton-utilisateur/cv_portfolio_dynamic.git
    ```
 
-2. **Placer le projet sur votre serveur local** (ex: [Laragon](https://laragon.org/), XAMPP, WAMP, etc.)
-
-3. **Accéder au site**  
-   Ouvrez votre navigateur et rendez-vous sur :  
-   ```
-   http://localhost/cv_portfolio_dynamic/
-   ```
-
----
 
 ## 📸 Aperçu
 
@@ -57,7 +46,7 @@ cv_portfolio_dynamic/
 
 - Remplacez le fichier PDF dans `assets/cv/` par votre propre CV.
 - Modifiez le fichier `assets/css/style.css` pour adapter le style à vos goûts.
-- Personnalisez le contenu de `index.php` selon vos besoins.
+- Personnalisez le contenu de `index.html` selon vos besoins.
 
 ---
 
