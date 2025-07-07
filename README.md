@@ -38,7 +38,7 @@ cv_portfolio_dynamic/
 
 ## 📸 Aperçu
 
-![Aperçu du portfolio](https://user-images.githubusercontent.com/placeholder/preview.png)
+![Aperçu du portfolio](assets/images/img-01.jpeg)
 
 ---
 
