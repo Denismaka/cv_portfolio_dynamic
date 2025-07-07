@@ -17,7 +17,7 @@
         <h1 class="mb-2 text-success">Denis Maka</h1>
         <p class="lead mb-4">Développeur Web & Web Designer</p>
         <p>Téléchargez mon CV au format PDF :</p>
-        <a href="function/download.php" class="btn btn-dark btn-lg mt-3" role="button" aria-label="Télécharger le CV de Denis Maka">
+        <a href="assets/cv/Cv%20D%C3%A9nis%20Maka.pdf" class="btn btn-dark btn-lg mt-3" role="button" aria-label="Télécharger le CV de Denis Maka" download>
             📄 Télécharger le CV
         </a>
     </div>
