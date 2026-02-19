@@ -32,7 +32,7 @@ cv_portfolio_dynamic/
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/ton-utilisateur/cv_portfolio_dynamic.git
+   git clone https://github.com/Denismaka/cv_portfolio_dynamic.git
    ```
 
 
